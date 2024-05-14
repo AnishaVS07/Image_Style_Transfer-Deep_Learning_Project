@@ -6,11 +6,17 @@ The content loss is computed using a pre-trained convolutional neural network (C
 Features
 
 Style Transfer: Render a content image in the artistic style of a given style image.
+
 Multiple Style Images: Support for transferring the style from multiple style images onto a single content image.
+
 Content Weight: Adjust the relative importance of the content image compared to the style image(s).
+
 Style Weight: Control the strength of the style transfer effect.
+
 Content Layers: Specify the layers of the CNN to be used for computing the content loss.
+
 Style Layers: Specify the layers of the CNN to be used for computing the style loss.
+
 GPU Support: Leverage GPU acceleration for faster training and style transfer.
 
 Examples
