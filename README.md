@@ -1,4 +1,4 @@
-Deep Learning Image Style Transfer
+Deep Learning Image Style Transfer,
 This repository contains an implementation of the Neural Style Transfer algorithm, which combines the content of one image with the artistic style of another image using deep learning techniques. The model is based on the approach proposed in the seminal paper "A Neural Algorithm of Artistic Style" by Gatys et al. (2015).
 Overview
 Style transfer is the process of rendering a content image in the artistic style of a style image, creating visually appealing and artistic outputs. The algorithm optimizes a loss function that captures both the content representation of the content image and the style representation of the style image.
