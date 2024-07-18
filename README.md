@@ -31,5 +31,6 @@ Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). A Neural Algorithm of Artistic 
 https://www.tensorflow.org/tutorials/generative/style_transfer
 
 Contact If you have any questions, suggestions, or feedback, feel free to contact me.
+
 Email ID : vsanisha8@gmail.com
 
